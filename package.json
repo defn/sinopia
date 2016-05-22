@@ -1,0 +1,8 @@
+{
+  "name": "meh",
+  "version": "1.0.0",
+  "description": "meh",
+  "dependencies": {
+    "sinopia": "~1.4.0"
+  }
+}
