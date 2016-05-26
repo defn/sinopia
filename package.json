@@ -1,7 +1,5 @@
 {
-  "name": "meh",
-  "version": "1.0.0",
-  "description": "meh",
+  "private": "true",
   "dependencies": {
     "sinopia": "~1.4.0"
   }
