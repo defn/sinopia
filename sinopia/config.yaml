@@ -6,8 +6,6 @@
 # https://github.com/rlidwka/sinopia/tree/master/conf
 #
 
-listen: 172.28.130.2:4873
-
 # path to a directory with all packages
 storage: /vagrant/cache/sinopia
 
