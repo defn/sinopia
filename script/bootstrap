@@ -8,8 +8,6 @@ function main {
 
   mkdir -p "$shome/bin"
   ln -nfs "../node_modules/.bin/sinopia" "$shome/bin/"
-
-  block compile service
 }
 
 main "$@"
