@@ -1,9 +1,0 @@
-{
-  "services": {
-    "sinopia": {
-      "run": "~/work/sinopia/script/server",
-      "env": {
-      }
-    }
-  }
-}
